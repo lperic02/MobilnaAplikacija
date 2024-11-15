@@ -3,12 +3,12 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDsnRokyH9u3q2bYt6UuDH3OAEGhQUhXno",
-    authDomain: "mathapp-fbfbc.firebaseapp.com",
-    projectId: "mathapp-fbfbc",
-    storageBucket: "mathapp-fbfbc.appspot.com",
-    messagingSenderId: "1014384547057",
-    appId: "1:1014384547057:web:78848be02b56497efc0550"
+    apiKey: "AIzaSyCNWLiNZZhc8Max1larBXyNDMzRIKH8WpA",
+    authDomain: "mathapp-c307d.firebaseapp.com",
+    projectId: "mathapp-c307d",
+    storageBucket: "mathapp-c307d.firebasestorage.app",
+    messagingSenderId: "34223536257",
+    appId: "1:34223536257:web:07d94a4cdfd871e4a9f580"
 };
 
 const app = initializeApp(firebaseConfig);
