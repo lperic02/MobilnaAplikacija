@@ -8,4 +8,4 @@ export default App = () => {
             <Navigation />
         </AuthProvider>
     );
-};.
+};
